@@ -1,0 +1,23 @@
+{
+  "name": "sequelize",
+  "version": "1.0.0",
+  "description": "Como usar o sequelize com algum banco de dados",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JoaoLucasPMedeiros"
+  },
+  "author": "Joao lucas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "sequelize": "^6.32.1",
+    "sqlite": "^4.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
